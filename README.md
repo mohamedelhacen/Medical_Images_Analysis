@@ -1,6 +1,6 @@
 # Medical Images Analysis 
 
-## Pneumonia Classification 
+## ![Pneumonia Classification](https://github.com/mohamedelhacen/DL_for_Medical_Analysis/blob/master/Pneumonia%20Classification.ipynb) 
 The dataset used is: ![Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data)
 
 ![PneumniaClassification](imgs/PneumniaClassification.png)
