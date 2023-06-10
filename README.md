@@ -1,6 +1,7 @@
 # Medical Images Analysis 
 
 ## Pneumonia Classification 
-The dataset used is: 
+The dataset used is: \
+
 ![PneumniaClassification](imgs/PneumniaClassification.png)
 
